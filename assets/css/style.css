@@ -1,0 +1,13 @@
+button {
+    margin: 5px;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+    color: white;
+}
+
+#add-animal {
+    margin-top: 5px;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+    color: white;
+}
